@@ -10,7 +10,7 @@ I just completed my Ph.D. study in Computer Science at [CISPA Helmholtz Center f
 
 
 ## News
-My academic genealogy can be found on the Mathematics Genealogy Project, [see here](https://genealogy.math.ndsu.nodak.edu/id.php?id=314893). 
+My academic genealogy can be found on the Mathematics Genealogy Project, [see here](https://genealogy.math.ndsu.nodak.edu/id.php?id=314893). It includes many distinguished mathematicians and scientists in history, e.g., Joseph Louis Lagrange, Pierre-Simon Laplace, Gottfried Wilhelm Leibniz, Leonhard Euler, Johann Bernoulli, and Jacob Bernoulli. Notably, I am the ninth graduate under the supervision of [Prof. Dr. Cas Cremers](https://people.cispa.io/cas.cremers/).
 
 ## Research Interests
 
@@ -72,7 +72,7 @@ My academic genealogy can be found on the Mathematics Genealogy Project, [see he
 ## Academic Activities
 
 - PC: ACM CCS 2024
-- Reviewer: IEEE/ACM ToN 2024
+- Reviewer: IEEE/ACM ToN 2024, IEEE TIFS 2025
 - External-/ Sub-Reviewer: ACM CCS 2022, CSF 2021, IEEE S&P 2021, IEEE S&P 2022
 - Teaching
   - Teaching Assistant, [Secure Messaging](https://cms.cispa.saarland/secmes/) at Saarland University, WS 2019/2020
