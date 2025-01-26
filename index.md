@@ -10,8 +10,7 @@ I just completed my Ph.D. study in Computer Science at [CISPA Helmholtz Center f
 
 
 ## News
-Hi, I just completed my Ph.D. study and am looking for jobs afterwards.
-If you have any suitable positions for me, please contact me [mang.zhao@hotmail.com](mang.zhao@hotmail.com). 
+My academic genealogy can be found on the Mathematics Genealogy Project, [see here](https://genealogy.math.ndsu.nodak.edu/id.php?id=314893). 
 
 ## Research Interests
 
