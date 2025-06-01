@@ -69,15 +69,15 @@ sections:
  #   design:
  #     view: article-grid
  #     columns: 1
-  - block: collection
-    id: news
+  - block: markdown
+    id: credo
     content:
-      title: News
-      subtitle: ''
-      text: ''
-      # Page type to display. E.g. post, talk, publication...
-      page_type: landing
-      # Choose how many pages you would like to display (0 = all pages)
+      title: Credo
+      text: |-
+        “以一生一世来铸就的事业，非旁人能理解，寂寞必然，浪漫也必然，因为爱足以遮蔽一切艰辛。如果仍觉艰辛，那就是爱得不够。” —— 小思《一瓦之缘》
+
+        A career built for a lifetime can be hardly comprehended by others. Loneliness is inevitable, but so is romance, for love has the power to conceal arduousness completely. If arduousness is still palpable, then love is not enough. — Xiao Si, *Once Seeing a Tile*
+
       
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
