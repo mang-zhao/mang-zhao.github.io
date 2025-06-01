@@ -21,7 +21,7 @@ sections:
         However, authors are listed by contribution in the works that I collaborate with other Chinese authors, following the convention and policy in the Chinese Crypto community.
     design:
       columns: '1'
-  - block: collection
+  - block: markdown
     id: papers
     content:
       title: Papers
