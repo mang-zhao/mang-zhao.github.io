@@ -15,9 +15,9 @@ sections:
       username: admin
       text: ""
       # Show a call-to-action button under your biography? (optional)
-      button:
-        text: Download CV
-        url: uploads/resume.pdf
+ #     button:
+ #       text: Download CV
+ #       url: uploads/resume.pdf
     design:
       css_class: dark
       background:
@@ -42,47 +42,47 @@ sections:
         Please reach out to collaborate 😃
     design:
       columns: '1'
-  - block: collection
-    id: papers
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      view: article-grid
-      columns: 2
-  - block: collection
-    content:
-      title: Recent Publications
-      text: ""
-      filters:
-        folders:
-          - publication
-        exclude_featured: false
-    design:
-      view: citation
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - event
-    design:
-      view: article-grid
-      columns: 1
+ # - block: collection
+ #   id: papers
+ #   content:
+ #     title: Featured Publications
+ #     filters:
+ #       folders:
+ #         - publication
+ #       featured_only: true
+ #   design:
+ #     view: article-grid
+ #     columns: 2
+ # - block: collection
+ #   content:
+ #     title: Publications
+ #     text: ""
+ #     filters:
+ #       folders:
+ #         - publication
+ #       exclude_featured: false
+ #   design:
+ #     view: citation
+ # - block: collection
+ #   id: talks
+ #   content:
+ #     title: Recent & Upcoming Talks
+ #     filters:
+ #       folders:
+ #         - event
+ #   design:
+ #     view: article-grid
+ #     columns: 1
   - block: collection
     id: news
     content:
-      title: Recent News
+      title: News
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...
       page_type: post
       # Choose how many pages you would like to display (0 = all pages)
-      count: 5
+      count: 0
       # Filter on criteria
       filters:
         author: ""
