@@ -1,7 +1,9 @@
 ---
 title: Papers
 summary: My papers
+type: landing
 ---
+<p align="center">这是居中的文字</p>
 
 ## Publications 
 - *Multi-Stage Group Key Distribution and PAKEs: Securing Zoom Groups against Malicious Servers without New Security Elements*
