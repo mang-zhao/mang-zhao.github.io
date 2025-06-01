@@ -31,7 +31,7 @@ sections:
           position: center
           parallax: false
       spacing: 
-        padding: ['6rem', 0, '6rem', 0]
+        padding: ["6rem", 0, "1rem", 0]
 #  - block: markdown
 #    content:
 #      title: ' Note on Authorship'
