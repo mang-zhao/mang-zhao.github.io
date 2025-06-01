@@ -1,13 +1,6 @@
 ---
 title: Papers
-summary: My papers
 type: landing
-
-cascade:
-  - _target:
-      kind: page
-    params:
-      show_breadcrumb: true
 
 sections:
   - block: markdown
@@ -19,8 +12,7 @@ sections:
         Authors are listed in alphabetical order by default, following the convention in cryptography worldwide. 
         
         However, authors are listed by contribution in the works that I collaborate with other Chinese authors, following the convention and policy in the Chinese Crypto community.
-    design:
-      columns: '1'
+
   - block: markdown
     id: papers
     content:
@@ -73,7 +65,5 @@ sections:
           (Journal) Revista de la Union Matematica Argentina, Vol. 60 (2), 407-415, 2019
           <br>
           [[Journal](https://inmabb.criba.edu.ar/revuma/pdf/v60n2/v60n2a08.pdf)] [[arXiv](https://arxiv.org/abs/1809.00274)]
-    design:
-      columns: '1'
 ---
 
