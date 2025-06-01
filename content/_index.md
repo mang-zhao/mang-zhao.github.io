@@ -74,9 +74,26 @@ sections:
     content:
       title: Credo
       text: |-
-        “以一生一世来铸就的事业，非旁人能理解，寂寞必然，浪漫也必然，因为爱足以遮蔽一切艰辛。如果仍觉艰辛，那就是爱得不够。” —— 小思《一瓦之缘》
+        “以一生一世来铸就的事业，非旁人能理解，寂寞必然，浪漫也必然，因为爱足以遮蔽一切艰辛。如果仍觉艰辛，那就是爱得不够。” 
+        
+        <div align="right"> ——小思《一瓦之缘》</div>
 
-        A career built for a lifetime can be hardly comprehended by others. Loneliness is inevitable, but so is romance, for love has the power to conceal arduousness completely. If arduousness is still palpable, then love is not enough. — Xiao Si, *Once Seeing a Tile*
+        *A career built for a lifetime can be hardly comprehended by others. Loneliness is inevitable, but so is romance, for love has the power to conceal arduousness completely. If arduousness is still palpable, then love is not enough.*
+
+        <div align="right"> —-Xiao Si, *Once Seeing a Tile*</div>
+
+
+  - block: cta-button-list
+    content:
+      title: Genealogy
+      text: |-
+        My academic genealogy can be found on the Mathematics Genealogy Project, [see here](https://genealogy.math.ndsu.nodak.edu/id.php?id=314893), or the link below. My academic ancestors include many distinguished mathematicians and scientists in history, e.g., Joseph Louis Lagrange, Pierre-Simon Laplace, Gottfried Wilhelm Leibniz, Leonhard Euler, Johann Bernoulli, and Jacob Bernoulli. Notably, I am the ninth graduate under the supervision of [Prof. Dr. Cas Cremers](https://people.cispa.io/cas.cremers/).
+      # Need a custom icon?
+      # Add an SVG image to the `assets/media/icons/` folder and reference it in the `icon` field below
+      buttons:
+        - text: View My Genealogy
+          url: uploads/zhao.pdf
+        
 
       
   - block: cta-card
