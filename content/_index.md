@@ -6,7 +6,7 @@ type: landing
 
 design:
   # Default section spacing
-  #spacing: "6rem"
+  spacing: "6rem"
 
 sections:
   - block: resume-biography-3
@@ -83,6 +83,9 @@ sections:
         *A career built for a lifetime can be hardly comprehended by others. Loneliness is inevitable, but so is romance, for love has the power to conceal arduousness completely. If arduousness is still palpable, then love is not enough.*
 
         <div align="right"> —-Xiao Si, *Once Seeing a Tile*</div>
+    design:
+      spacing: 
+        padding: ["-10rem", 0, "10rem", 0]
   - block: markdown
     id: genealogy
     content:
