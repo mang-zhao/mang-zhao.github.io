@@ -11,7 +11,7 @@ main:
     url: papers/
     weight: 11
   - name: Activities
-    url: activites/
+    url: activities/
     weight: 12
   - name: Teaching
     url: teaching/
