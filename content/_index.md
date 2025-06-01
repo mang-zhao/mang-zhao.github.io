@@ -83,7 +83,7 @@ sections:
         <div align="right"> —-Xiao Si, *Once Seeing a Tile*</div>
 
 
-  - block: cta-button-list
+  - block: markdown
     content:
       title: Genealogy
       text: |-
