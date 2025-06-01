@@ -31,6 +31,7 @@ sections:
     design:
       view: article-grid
       columns: 2
+---
 
 ## Publications 
 - *Multi-Stage Group Key Distribution and PAKEs: Securing Zoom Groups against Malicious Servers without New Security Elements*
@@ -80,4 +81,3 @@ sections:
   (Journal) Revista de la Union Matematica Argentina, Vol. 60 (2), 407-415, 2019
   <br>
   [[Journal](https://inmabb.criba.edu.ar/revuma/pdf/v60n2/v60n2a08.pdf)] [[arXiv](https://arxiv.org/abs/1809.00274)]
----
