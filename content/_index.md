@@ -30,8 +30,6 @@ sections:
           size: cover
           position: center
           parallax: false
-      spacing: 
-        padding: ["6rem", 0, "1rem", 0]
 #  - block: markdown
 #    content:
 #      title: ' Note on Authorship'
@@ -83,15 +81,12 @@ sections:
         *A career built for a lifetime can be hardly comprehended by others. Loneliness is inevitable, but so is romance, for love has the power to conceal arduousness completely. If arduousness is still palpable, then love is not enough.*
 
         <div align="right"> —-Xiao Si, *Once Seeing a Tile*</div>
-    design:
-      spacing: 
-        padding: ["-10rem", 0, "10rem", 0]
   - block: markdown
     id: genealogy
     content:
       title: Genealogy
       text: |-
-        My academic genealogy can be found on the Mathematics Genealogy Project, [see here](https://genealogy.math.ndsu.nodak.edu/id.php?id=314893), or the link below. My academic ancestors include many distinguished mathematicians and scientists in history, e.g., Joseph Louis Lagrange, Pierre-Simon Laplace, Gottfried Wilhelm Leibniz, Leonhard Euler, Johann Bernoulli, and Jacob Bernoulli. Notably, I am the ninth graduate under the supervision of [Prof. Dr. Cas Cremers](https://people.cispa.io/cas.cremers/).
+        My data as been entered into the Mathematics Genealogy Project, [see here](https://genealogy.math.ndsu.nodak.edu/id.php?id=314893), and my academic genealogy is available [here](uploads/zhao.pdf). My academic ancestors include many distinguished mathematicians and scientists in history, e.g., Joseph Louis Lagrange, Pierre-Simon Laplace, Gottfried Wilhelm Leibniz, Leonhard Euler, Johann Bernoulli, and Jacob Bernoulli. Notably, I am the ninth graduate under the supervision of [Prof. Dr. Cas Cremers](https://people.cispa.io/cas.cremers/).
       # Need a custom icon?
       # Add an SVG image to the `assets/media/icons/` folder and reference it in the `icon` field below
       buttons:
