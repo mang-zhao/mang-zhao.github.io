@@ -81,9 +81,8 @@ sections:
         *A career built for a lifetime can be hardly comprehended by others. Loneliness is inevitable, but so is romance, for love has the power to conceal arduousness completely. If arduousness is still palpable, then love is not enough.*
 
         <div align="right"> —-Xiao Si, *Once Seeing a Tile*</div>
-
-
   - block: markdown
+    id: genealogy
     content:
       title: Genealogy
       text: |-
