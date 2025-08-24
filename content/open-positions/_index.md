@@ -8,7 +8,7 @@ sections:
     content:
       title: 'Open Positions'
       text: |-
-        I am actively hiring self-motivated Postdocs and am also interested in supervising Bachelor students for their theses. Additionally, I am able to hire one (or two, under certain very strict conditions) PhD student(s) every year, thanks to the policy of WHU.
+        I am actively hiring self-motivated Postdocs and am also interested in supervising Bachelor students for their theses. I have no PhD positions for now.
 
         **A small hint:** Although cryptography is classified as an engineering discipline in China, it is widely considered a natural science internationally and therefore requires a strong mathematical background or scientific thinking. If you're only looking to complete an undergraduate thesis as quickly as possible, this won't be an issue. However, if you aim to delve deeply into cryptography, please be mentally prepared before contacting me.
 
