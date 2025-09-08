@@ -10,7 +10,7 @@ sections:
       text: |-
         I am actively hiring self-motivated Postdocs and am also interested in supervising Bachelor students for their theses. I have no PhD positions for now.  
 
-	我目前博士研究生招生名额已满。暂无硕士研究生招生计划。  
+        我目前博士研究生招生名额已满。暂无硕士研究生招生计划。  
 
         **A small hint:** Although cryptography is classified as an engineering discipline in China, it is widely considered a natural science internationally and therefore requires a strong mathematical background or scientific thinking. If you're only looking to complete an undergraduate thesis as quickly as possible, this won't be an issue. However, if you aim to delve deeply into cryptography, please be mentally prepared before contacting me.  
 
