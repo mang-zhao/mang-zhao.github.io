@@ -22,7 +22,7 @@ sections:
            <br>
           Cas Cremers, Esra Gunsay, Vera Wesselkamp, and **Mang Zhao**
           <br>
-          IEEE Symposium on Security and Privacy (**IEEE S&P**), 2024.
+          **Eurocrypt**, 2026.
           <br>
           [[eprint](https://eprint.iacr.org/2023/1243)] 
 
