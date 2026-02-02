@@ -20,7 +20,7 @@ sections:
       text: |-
         - *ETK: External-Operations TreeKEM and the Security of MLS in RFC 9420*
            <br>
-          Cas Cremers, Eyal Ronen, and **Mang Zhao**
+          Cas Cremers, Esra Gunsay, Vera Wesselkamp, and **Mang Zhao**
           <br>
           IEEE Symposium on Security and Privacy (**IEEE S&P**), 2024.
           <br>
