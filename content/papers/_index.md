@@ -18,14 +18,6 @@ sections:
     content:
       title: Papers
       text: |-
-	- *ETK: External-Operations TreeKEM and the Security of MLS in RFC 9420*
-           <br>
-          Cas Cremers, Esra Gunsay, Vera Wesselkamp, and **Mang Zhao(*)**
-          <br>
-          **Eurocrypt**, 2026.
-          <br>
-          [[eprint](https://eprint.iacr.org/2025/229)] 
-
         - *Multi-Stage Group Key Distribution and PAKEs: Securing Zoom Groups against Malicious Servers without New Security Elements*
            <br>
           Cas Cremers, Eyal Ronen, and **Mang Zhao**
