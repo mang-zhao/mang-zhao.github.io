@@ -18,7 +18,7 @@ sections:
     content:
       title: Papers
       text: |-
-        - *Multi-Stage Group Key Distribution and PAKEs: Securing Zoom Groups against Malicious Servers without New Security Elements*
+        - *ETK: External-Operations TreeKEM and the Security of MLS in RFC 9420*
            <br>
           Cas Cremers, Eyal Ronen, and **Mang Zhao**
           <br>
