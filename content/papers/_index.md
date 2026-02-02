@@ -24,7 +24,7 @@ sections:
           <br>
           **Eurocrypt**, 2026.
           <br>
-          [[eprint](https://eprint.iacr.org/2023/1243)] 
+          [[eprint](https://eprint.iacr.org/2025/229)] 
 
         - *Multi-Stage Group Key Distribution and PAKEs: Securing Zoom Groups against Malicious Servers without New Security Elements*
            <br>
