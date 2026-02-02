@@ -20,7 +20,7 @@ sections:
       text: |-
         - *ETK: External-Operations TreeKEM and the Security of MLS in RFC 9420*
            <br>
-          Cas Cremers, Esra Günsay, Vera Wesselkamp, and **Mang Zhao**
+          Cas Cremers, Esra Günsay, Vera Wesselkamp, and **Mang Zhao**(*)
           <br>
           Annual International Conference on the Theory and Applications of Cryptographic Techniques (**Eurocrypt**), 2026.
           <br>
