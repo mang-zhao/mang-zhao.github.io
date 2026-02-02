@@ -22,7 +22,7 @@ sections:
            <br>
           Cas Cremers, Esra Gunsay, Vera Wesselkamp, and **Mang Zhao**
           <br>
-          **Eurocrypt**, 2026.
+          Annual International Conference on the Theory and Applications of Cryptographic Techniques (**Eurocrypt**), 2026.
           <br>
           [[eprint](https://eprint.iacr.org/2025/229)] 
 
