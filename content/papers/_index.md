@@ -18,13 +18,13 @@ sections:
     content:
       title: Papers
       text: |-
-	- *ETK: External-Operations TreeKEM and the Security of MLS in RFC 9420*
+        - *Multi-Stage Group Key Distribution and PAKEs: Securing Zoom Groups against Malicious Servers without New Security Elements*
            <br>
-          Cas Cremers, Esra Gunsay, Vera Wesselkamp, and **Mang Zhao**
+          Cas Cremers, Eyal Ronen, and **Mang Zhao**
           <br>
-          **Eurocrypt**, 2026.
+          IEEE Symposium on Security and Privacy (**IEEE S&P**), 2024.
           <br>
-          [[eprint](https://eprint.iacr.org/2025/229)] 
+          [[eprint](https://eprint.iacr.org/2023/1243)] 
 
         - *Multi-Stage Group Key Distribution and PAKEs: Securing Zoom Groups against Malicious Servers without New Security Elements*
            <br>
