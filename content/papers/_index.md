@@ -18,6 +18,14 @@ sections:
     content:
       title: Papers
       text: |-
+	- *An Extended Hierarchy of Security Notions for Threshold Signature Schemes and Automated Analysis of Protocols That Use Them*
+           <br>
+          Cas Cremers, Aleksi Peltonen, and **Mang Zhao**(*)
+          <br>
+          ACM Conference on Computer and Communications Security (**ACM CCS**), 2026.
+          <br>
+          [[eprint](https://eprint.iacr.org/2024/1920)] 
+
         - *ETK: External-Operations TreeKEM and the Security of MLS in RFC 9420*
            <br>
           Cas Cremers, Esra Günsay, Vera Wesselkamp, and **Mang Zhao**(*)
