@@ -18,7 +18,7 @@ sections:
     content:
       title: Papers
       text: |-
-	- *An Extended Hierarchy of Security Notions for Threshold Signature Schemes and Automated Analysis of Protocols That Use Them*
+        - *An Extended Hierarchy of Security Notions for Threshold Signature Schemes and Automated Analysis of Protocols That Use Them*
            <br>
           Cas Cremers, Aleksi Peltonen, and **Mang Zhao**(*)
           <br>
