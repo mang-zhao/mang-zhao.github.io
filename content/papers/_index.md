@@ -24,7 +24,7 @@ sections:
           <br>
           ACM Conference on Computer and Communications Security (**ACM CCS**), 2026.
           <br>
-          [[eprint](https://eprint.iacr.org/2024/1920)] 
+          [[eprint](https://eprint.iacr.org/2024/1920)]
 
         - *ETK: External-Operations TreeKEM and the Security of MLS in RFC 9420*
            <br>
