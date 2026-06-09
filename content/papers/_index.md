@@ -18,6 +18,14 @@ sections:
     content:
       title: Papers
       text: |-
+        - *On the State-Compromise Security of End-to-End Real-Time Group Communication*
+           <br>
+          **Mang Zhao** and Qian Wang(*)
+          <br>
+          Annual International Cryptology Conference (**Crypto**), 2026.
+          <br>
+          [[eprint](https://eprint.iacr.org/2026/1165)]
+
         - *An Extended Hierarchy of Security Notions for Threshold Signature Schemes and Automated Analysis of Protocols That Use Them*
            <br>
           Cas Cremers, Aleksi Peltonen, and **Mang Zhao**(*)
