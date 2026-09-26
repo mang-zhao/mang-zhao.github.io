@@ -10,8 +10,8 @@ sections:
       text: |-
         ## Academic Activities
 
-        - PC: ACM CCS 2026, USENIX Security 2026, ACM CCS 2024
-        - Reviewer: IEEE ToN 2026, IEEE TIFS 2025, IEEE/ACM ToN 2024, ACM CCS 2022
+        - PC: USENIX Security 2027, ACM CCS 2026, USENIX Security 2026, ACM CCS 2024
+        - Reviewer: CACM 2026, IEEE ToN 2026, IEEE TIFS 2025, IEEE/ACM ToN 2024, ACM CCS 2022
         - Sub-Reviewer: CSF 2021, IEEE S&P 2021, IEEE S&P 2022
 ---
 
